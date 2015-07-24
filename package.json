@@ -15,6 +15,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/leonardo-czanoch/test-proj.git"
-  }
+    "url": "git+https://github.com/leonardo-czanoch/test-proj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leonardo-czanoch/test-proj/issues"
+  },
+  "homepage": "https://github.com/leonardo-czanoch/test-proj#readme"
 }
