@@ -1,8 +1,7 @@
 {
   "name": "test-proj",
   "version": "1.0.2",
-  "description": "this is a project for testing",
-  "git": "",
+  "description": "this is a project for testing npm package",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
